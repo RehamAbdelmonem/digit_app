@@ -1,16 +1,11 @@
 # graduation_project
 
-A new Flutter project.
+The process of converting traditional, manual, paper-based processes and systems into digital ones. This involves the use of electronic systems, computer software, and other digital technologies to automate and streamline various tasks, processes, and systems within laboratories and radiology departments.
 
-## Getting Started
+# Tools
 
-This project is a starting point for a Flutter application.
+Flutter , Firebase
 
-A few resources to get you started if this is your first Flutter project:
+# App
+![image](https://github.com/RehamAbdelmonem/digit_app/assets/144965308/25d10de1-833f-457b-b729-0a5b045c3561)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
